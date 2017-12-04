@@ -335,7 +335,7 @@
         },
         "subclass_of": {
           "type": "uri",
-          "value": "https://base.transformap.co/entity/Q10007"
+          "value": "https://base.transformap.co/entity/Q10008"
         },
         "type_of_initiative_tag": {
           "type": "literal",
