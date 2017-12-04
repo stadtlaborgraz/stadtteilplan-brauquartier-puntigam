@@ -318,6 +318,29 @@
           "type": "literal",
           "value": "unternehmen"
         }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "https://base.transformap.co/entity/Q12008"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mobilität"
+        },
+        "instance_of": {
+          "type": "uri",
+          "value": "https://base.transformap.co/entity/Q6"
+        },
+        "subclass_of": {
+          "type": "uri",
+          "value": "https://base.transformap.co/entity/Q10007"
+        },
+        "type_of_initiative_tag": {
+          "type": "literal",
+          "value": "mobil"
+        }
       }
     ]
   }
